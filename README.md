@@ -14,7 +14,6 @@ First, we will go over the acceptance criteria and ask for your solution design.
 
 You are creating a simple Pokemon App that allows you to search for any pokemon and add it to your captured list. You will be using the PokeAPI. Pokemon data can be fetched at [https://pokeapi.co/api/v2/pokemon/pikachu](https://pokeapi.co/api/v2/pokemon/pikachu) (Replace "pikachu" with a pokemon name or id). Please view the design below and the acceptance criteria.
 
-![poke app](public/poke-app.png)
 
 ### Acceptance Criteria
 
