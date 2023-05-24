@@ -33,7 +33,7 @@ You are creating a simple Pokemon App that allows you to search for any pokemon 
 
 ### Technical notes
 
-- Use react with typescript.
+- Use react with Javascript.
 - Use any style library you are comfortable with. (We use Chakra-ui).
 - Use additional libraries if needed.
 
