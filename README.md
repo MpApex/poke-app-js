@@ -46,4 +46,4 @@ You are creating a simple Pokemon App that allows you to search for any pokemon 
 ## Running App
 
 `yarn install`
-`yarn dev`
+`yarn dev` 
